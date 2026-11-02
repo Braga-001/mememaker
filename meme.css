@@ -1,0 +1,5 @@
+body{display:flex;justify-content:center;background:#fff3cd;font-family:sans-serif}
+.box{background:#fff;padding:20px;border-radius:15px;width:420px;text-align:center;margin-top:20px}
+input{width:100%;padding:10px;margin:6px 0;border-radius:8px;border:1px solid #ccc}
+canvas{max-width:100%;background:#ddd;border-radius:10px;margin:10px 0}
+button{padding:12px 20px;background:#ff5722;color:#fff;border:none;border-radius:8px;cursor:pointer}
